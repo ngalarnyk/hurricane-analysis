@@ -1,0 +1,35 @@
+Name,Month,Year,Max Sustained Wind (mph),Areas Affected,Damage (USD),Deaths
+Cuba I,October,1924,165,"['Central America', 'Mexico', 'Cuba', 'Florida', 'The Bahamas']",Damages not recorded,90
+San Felipe II Okeechobee,September,1928,160,"['Lesser Antilles', 'The Bahamas', 'United States East Coast', 'Atlantic Canada']",100000000.0,4000
+Bahamas,September,1932,160,"['The Bahamas', 'Northeastern United States']",Damages not recorded,16
+Cuba II,November,1932,175,"['Lesser Antilles', 'Jamaica', 'Cayman Islands', 'Cuba', 'The Bahamas', 'Bermuda']",40000000.0,3103
+CubaBrownsville,August,1933,160,"['The Bahamas', 'Cuba', 'Florida', 'Texas', 'Tamaulipas']",27900000.0,179
+Tampico,September,1933,160,"['Jamaica', 'Yucatn Peninsula']",5000000.0,184
+Labor Day,September,1935,185,"['The Bahamas', 'Florida', 'Georgia', 'The Carolinas', 'Virginia']",Damages not recorded,408
+New England,September,1938,160,"['Southeastern United States', 'Northeastern United States', 'Southwestern Quebec']",306000000.0,682
+Carol,September,1953,160,"['Bermuda', 'New England', 'Atlantic Canada']",2000000.0,5
+Janet,September,1955,175,"['Lesser Antilles', 'Central America']",65800000.0,1023
+Carla,September,1961,175,"['Texas', 'Louisiana', 'Midwestern United States']",326000000.0,43
+Hattie,October,1961,160,['Central America'],60300000.0,319
+Beulah,September,1967,160,"['The Caribbean', 'Mexico', 'Texas']",208000000.0,688
+Camille,August,1969,175,"['Cuba', 'United States Gulf Coast']",1420000000.0,259
+Edith,September,1971,160,"['The Caribbean', 'Central America', 'Mexico', 'United States Gulf Coast']",25400000.0,37
+Anita,September,1977,175,['Mexico'],Damages not recorded,11
+David,August,1979,175,"['The Caribbean', 'United States East coast']",1540000000.0,2068
+Allen,August,1980,190,"['The Caribbean', 'Yucatn Peninsula', 'Mexico', 'South Texas']",1240000000.0,269
+Gilbert,September,1988,185,"['Jamaica', 'Venezuela', 'Central America', 'Hispaniola', 'Mexico']",7100000000.0,318
+Hugo,September,1989,160,"['The Caribbean', 'United States East Coast']",10000000000.0,107
+Andrew,August,1992,175,"['The Bahamas', 'Florida', 'United States Gulf Coast']",26500000000.0,65
+Mitch,October,1998,180,"['Central America', 'Yucatn Peninsula', 'South Florida']",6200000000.0,19325
+Isabel,September,2003,165,"['Greater Antilles', 'Bahamas', 'Eastern United States', 'Ontario']",5370000000.0,51
+Ivan,September,2004,165,"['The Caribbean', 'Venezuela', 'United States Gulf Coast']",23300000000.0,124
+Emily,July,2005,160,"['Windward Islands', 'Jamaica', 'Mexico', 'Texas']",1010000000.0,17
+Katrina,August,2005,175,"['Bahamas', 'United States Gulf Coast']",125000000000.0,1836
+Rita,September,2005,180,"['Cuba', 'United States Gulf Coast']",12000000000.0,125
+Wilma,October,2005,185,"['Greater Antilles', 'Central America', 'Florida']",29400000000.0,87
+Dean,August,2007,175,"['The Caribbean', 'Central America']",1760000000.0,45
+Felix,September,2007,175,"['Nicaragua', 'Honduras']",720000000.0,133
+Matthew,October,2016,165,"['Antilles', 'Venezuela', 'Colombia', 'United States East Coast', 'Atlantic Canada']",15100000000.0,603
+Irma,September,2017,180,"['Cape Verde', 'The Caribbean', 'British Virgin Islands', 'U.S. Virgin Islands', 'Cuba', 'Florida']",64800000000.0,138
+Maria,September,2017,175,"['Lesser Antilles', 'Virgin Islands', 'Puerto Rico', 'Dominican Republic', 'Turks and Caicos Islands']",91600000000.0,3057
+Michael,October,2018,160,"['Central America', 'United States Gulf Coast (especially Florida Panhandle)']",25100000000.0,74
